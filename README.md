@@ -25,6 +25,15 @@
 
 ### :woman_technologist: About Me :
 I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Africa.
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+
+- :seedling: 👀 I’m interested in hacking ...
+
+- :zap: In my free time, I solve problems, learn more python and hacking.
+
+- :zap: 💞️ I’m looking to collaborate on any python or hacking projects.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/olatoye-ibrahim-eniola-87567619b)
 
 
 
